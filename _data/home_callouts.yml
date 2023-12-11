@@ -1,12 +1,17 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
-    icon_brand: true
+  - title: Scheduled. 24/7.
+    subtitle: You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal.
+    icon: fa-calendar-days
+  - title: Customizable
+    subtitle: Your music instance is yours. And because of this architecture, we’re able to make each one unique. Maybe you don’t want that new pop song. No problem, we’ll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!
+    icon: fa-sliders
+  - title: Resilient
+    subtitle: Modern hardware and software combined with experience provide an experience like never before to keep your business running and customers happy.
+    icon: fa-bolt
+  - title: Music. Fast.
+    subtitle: It’s fast. Want to change the current playlist? Cue it up, the current song will finish, and you’re in business. Flip your classy restaurant to a nightclub (or whatever your fancy is) with a couple clicks. Whatever the situation, our system will respond almost instantly.
+    icon: fa-rocket
+  - title: Always Updated
+    subtitle: We keep up with the music industry so you don’t have to. New songs are added every week and you’ll benefit from it every time. Plus, we keep our equipment and software up-to-date so your experience is always flawless.
+    icon: fa-check

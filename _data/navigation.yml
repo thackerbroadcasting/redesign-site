@@ -1,19 +1,15 @@
+- name: Services
+  link: #
+  dropdown:
+    - name: Business & Property
+      link: /business-property
+    - name: Podcasting
+      link: /sponsors/
+    - name: Radio Broadcasting
+      link: /gallery/
+    - name: Web Design
+      link: /products/
 - name: Docs
   link: /docs/
-- name: Example Pages
-  link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
 - name: Blog
   link: /blog/

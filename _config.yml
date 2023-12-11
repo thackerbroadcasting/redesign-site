@@ -1,18 +1,19 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Thacker Broadcasting
+tagline: Broadcasting Beyond
+email: contact@thackerbroadcasting.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Broadcasting Solutions for your Business
+#baseurl: "/redesign-site"
+url: "127.0.0.1"
 permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+favicon: favicon.ico
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
+#theme_color: '#ff8c21'
+theme: bulma-clean-theme
+fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
 paginate: 5
@@ -23,8 +24,6 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
-
 
 plugins:
   - jekyll-sitemap
