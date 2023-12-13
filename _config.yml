@@ -13,6 +13,8 @@ favicon: favicon.ico
 #hide_share_buttons: true
 #theme_color: '#ff8c21'
 #theme: bulma-clean-theme
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme #used for Github Pages deployment
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
