@@ -5,14 +5,14 @@ tagline: Broadcasting Beyond
 email: contact@thackerbroadcasting.com
 description: >
   Broadcasting Solutions for your Business
-#baseurl: "/redesign-site"
-url: "127.0.0.1"
+baseurl: "/redesign-site"
+url: "thackerbroadcasting.github.io"
 permalink: pretty
 favicon: favicon.ico
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#ff8c21'
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
