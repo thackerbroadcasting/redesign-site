@@ -1,15 +1,17 @@
 - name: Services
   link: #
   dropdown:
-    - name: Business & Property
-      link: /business-property
+    - name: Business
+      link: /services/business
     - name: Podcasting
-      link: /sponsors/
+      link: /services/podcasting
     - name: Radio Broadcasting
-      link: /gallery/
-    - name: Web Design
-      link: /products/
+      link: /services/radio-broadcasting
+    #- name: Web Design
+      #link: /services/web-design
 - name: Docs
   link: /docs/
+- name: Contact
+  link: /contact/
 - name: Blog
   link: /blog/
