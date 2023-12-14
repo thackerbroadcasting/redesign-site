@@ -1,8 +1,10 @@
 - name: Home
   link: /
+- name: About
+  link: /about
+- name: Contact
+  link: /contact
 - name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+  link: /blog
+- name: Legal
+  link: https://docs.thackerbroadcasting.com

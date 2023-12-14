@@ -9,9 +9,14 @@
       link: /services/radio-broadcasting
     #- name: Web Design
       #link: /services/web-design
+- name: About
+  link: /about
+  dropdown:
+    - name: Why Thacker Broadcasting?
+      link: /why
 - name: Docs
-  link: /docs/
+  link: /docs
 - name: Contact
-  link: /contact/
+  link: /contact
 - name: Blog
-  link: /blog/
+  link: /blog

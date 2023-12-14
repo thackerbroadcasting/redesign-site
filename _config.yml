@@ -5,7 +5,7 @@ tagline: Broadcasting Beyond
 email: contact@thackerbroadcasting.com
 description: >
   Broadcasting Solutions for your Business
-baseurl: "/redesign-site"
+#baseurl: "/redesign-site"
 url: "thackerbroadcasting.github.io"
 permalink: pretty
 favicon: favicon.ico
