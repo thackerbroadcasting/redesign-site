@@ -5,8 +5,9 @@ tagline: Broadcasting Beyond
 email: contact@thackerbroadcasting.com
 description: >
   Broadcasting Solutions for your Business
-#baseurl: "/redesign-site"
-url: "thackerbroadcasting.com"
+baseurl: "/redesign-site"
+url: "thackerbroadcasting.github.io"
+#url: "thackerbroadcasting.com"
 permalink: pretty
 favicon: favicon.png
 #gh_sponsor: chrisrhymes
