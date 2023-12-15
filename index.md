@@ -8,4 +8,5 @@ hero_image: /img/website-header.jpg
 hero_height: is-large
 hero_link: /page-1/
 hero_link_text: Learn more about us
+#hide_footer: true
 ---

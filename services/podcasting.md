@@ -5,6 +5,7 @@ show_sidebar: false
 #hero_height: small
 hero_image: /img/podcast.jpg
 hero_darken: true
+#menubar_toc: true
 ---
 
 Before our company was founded, we were podcasting in the background. So you might say we kinda know what we’re doing.

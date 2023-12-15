@@ -8,10 +8,10 @@ description: >
 #baseurl: "/redesign-site"
 url: "thackerbroadcasting.github.io"
 permalink: pretty
-favicon: favicon.ico
+favicon: favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#ff8c21'
+theme_color: '#ff8c21'
 #theme: bulma-clean-theme
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme #used for Github Pages deployment
@@ -65,9 +65,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Thacker Broadcasting"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image:
       show_sidebar: true
 
 markdown: kramdown
@@ -79,5 +79,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: 
     show_sidebar: false

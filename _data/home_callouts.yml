@@ -1,17 +1,49 @@
 #style: is-dark
 items:
   - title: Scheduled. 24/7.
-    subtitle: You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal.
+    subtitle: 
     icon: fa-calendar-days
+    description: >
+      You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal. Run music 24/7, set it up for a special event, turn it off for the night, whatever you need. Scheduled or immediate, our system responds.
+  
   - title: Customizable
-    subtitle: Your music instance is yours. And because of this architecture, we’re able to make each one unique. Maybe you don’t want that new pop song. No problem, we’ll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!
+    subtitle: 
     icon: fa-sliders
+    description: >
+      Your music instance is yours. And because of this architecture, we’re able to make each one unique. Maybe you don’t want that new pop song. No problem, we’ll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!
+  
   - title: Resilient
-    subtitle: Modern hardware and software combined with experience provide an experience like never before to keep your business running and customers happy.
-    icon: fa-bolt
+    subtitle: 
+    icon: fa-server
+    description: >
+      Modern hardware and software combined with experience provide an experience like never before. This experience keeps our business running so you can keep customers happy.
+
   - title: Music. Fast.
-    subtitle: It’s fast. Want to change the current playlist? Cue it up, the current song will finish, and you’re in business. Flip your classy restaurant to a nightclub (or whatever your fancy is) with a couple clicks. Whatever the situation, our system will respond almost instantly.
-    icon: fa-rocket
+    subtitle: 
+    icon: fa-jet-fighter
+    description: >
+      Want to change the current playlist? Cue it up, the current song will finish, and you’re in business. Flip your classy restaurant to a dance floor with a couple clicks. Whatever the situation, our system will respond almost instantly.
+  
   - title: Always Updated
-    subtitle: We keep up with the music industry so you don’t have to. New songs are added every week and you’ll benefit from it every time. Plus, we keep our equipment and software up-to-date so your experience is always flawless.
+    subtitle: 
     icon: fa-check
+    description: >
+      We keep up with the music industry so you don’t have to. New songs are added every week and you’ll benefit from it every time. Plus, we keep our equipment and software up-to-date so your experience is always flawless.
+
+  - title: Widely Used
+    subtitle:
+    icon: fa-tower-broadcast
+    description: >
+      Hesitant about our architecture? Not to worry, our system is already used on 4 radio stations in the Western United States with more being added all the time. You can find these radio stations on our Radio Broadcasting page. If they trust us enough to move their entire operations to the cloud, you have nothing to worry about!
+
+  - title: Affordable
+    subtitle:
+    icon: fa-money-bill-1
+    description: >
+      Some call us cheap. We call ourselves affordable. Each business is unique, and we understand that. In addition to tailoring our music to your listenerbase, we also tailor our costs.
+  
+  - title: Your Choice
+    subtitle:
+    icon: fa-wand-magic-sparkles
+    description: >
+      You get to make the choice. Censored, or uncensored? Maybe it changes throughout the day. Perhaps you want a specific genre, artists, albums, or even songs. Our customizability is wide open to whatever you need. We won't tell you how to run your instance, we simply help it become a reality. It feels like magic!

@@ -2,7 +2,8 @@
     <div class="container">
         <div class="navbar-brand">
             <a href="{{ site.baseurl }}/" class="navbar-item">
-                {{ site.title }}
+                <img src='{{ site.baseurl }}/img/logo-white.png' alt="">
+                <!--{{ site.title }}-->
             </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
                 <span aria-hidden="true"></span>
@@ -30,7 +31,7 @@
                 {% endfor %}
                 {% endif %}
             </div>
-
+            <!--<script src="https://uptime.betterstack.com/widgets/announcement.js" data-id="160085" async="async" type="text/javascript"></script>-->
             <div class="navbar-end">
                 {% if site.gh_sponsor %}
                 <a class="navbar-item" href="https://github.com/sponsors/{{ site.gh_sponsor }}">
