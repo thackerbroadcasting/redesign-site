@@ -14,8 +14,6 @@
   dropdown:
     - name: Why Thacker Broadcasting?
       link: /why
-- name: Docs
-  link: https://docs.thackerbroadcasting.com
 - name: Contact
   link: /contact
 - name: Blog
