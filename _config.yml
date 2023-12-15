@@ -6,7 +6,7 @@ email: contact@thackerbroadcasting.com
 description: >
   Broadcasting Solutions for your Business
 baseurl: "/redesign-site"
-url: "thackerbroadcasting.github.io"
+url: "https://thackerbroadcasting.github.io"
 #url: "thackerbroadcasting.com"
 permalink: pretty
 favicon: favicon.png
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false
   -
     scope:
       path: ""
